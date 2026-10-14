@@ -1,0 +1,11 @@
+﻿fastapi
+uvicorn
+sqlalchemy
+snowflake-sqlalchemy
+snowflake-connector-python
+langchain
+langchain-openai
+python-dotenv
+pydantic
+sqlalchemy>=1.4.0,<2.0.0
+snowflake-sqlalchemy
